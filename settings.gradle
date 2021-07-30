@@ -1,0 +1,2 @@
+rootProject.name = "BottomActivities"
+include ':app'
